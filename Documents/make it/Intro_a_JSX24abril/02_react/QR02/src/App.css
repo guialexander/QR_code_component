@@ -1,0 +1,13 @@
+#root {
+  background-color:hsl(212, 45%, 89%) ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-size: 15px;
+}
+
+
