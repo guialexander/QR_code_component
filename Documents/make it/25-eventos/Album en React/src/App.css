@@ -1,0 +1,22 @@
+#root {
+ 
+  background-color:hsl(212, 45%, 89%) ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-width: 100vh;
+  height: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-size: 15px;
+
+}
+.cambio_de_cancion{
+  background-color: aqua;
+  color: white;
+}
+
+
+
